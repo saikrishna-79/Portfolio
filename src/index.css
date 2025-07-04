@@ -1,6 +1,6 @@
 /* Global defaults */
 html, body {
-  @apply bg-[#0f172a] overflow-x-hidden m-0 p-0;
+  @apply bg-[#0f172a]  m-0 p-0;
 }
 
 @tailwind base;
